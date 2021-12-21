@@ -1,1 +1,12 @@
 /* Write your CSS code here */
+.userInfo img {
+  width: 45%;
+}
+h1 {
+  font-size: 22px;
+  color: #12022f;
+  font-weight: bold;
+}
+p {
+  color: #616e7c;
+}
